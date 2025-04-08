@@ -1,6 +1,4 @@
-Absolutely bro! Let's **master `props`, `propTypes`, and `defaultProps` in React** — from total beginner to advanced — with step-by-step examples and real-life analogies 🚀
 
----
 
 ## 🧠 1. What are Props?
 
